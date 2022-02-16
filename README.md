@@ -1,1 +1,1 @@
-# Loan_Prediction
+Predictive analysis is being carried out to predict the customers who are eligible for the loan. Data preprocessing, Feature selection and Random Forest Algorithm with Hyper Parameter Tuning has been used. The accuracy of the model is 0.79. 
